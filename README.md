@@ -4,7 +4,7 @@ Analysis on sales and undestanding of customer funnels in different regions.
 As a data analyst at a fast-growing e-commerce company that has been operating for several years using the Shopify platform, I led a project aimed at leveraging Power BI to analyze sales data. The company operates within the online retail industry, and its business model revolves around direct-to-consumer transactions. With a growing customer base and increasing transaction volumes, we focused on key metrics such as average order value, repeat purchase rates, and customer lifetime value.
 
 The core objective of this project was to design an interactive Power BI dashboard that would translate raw transactional data into actionable insights. This included identifying trends in revenue growth, understanding customer purchasing behavior, and tracking customer retention over time. These insights are now used by stakeholders across marketing, sales, and product teams to drive strategic decisions and optimize customer engagement efforts
-Project PowerBi Snapshot ![alt text](image.jpg)
+
 # Executive Summary
 ## Overview and Findings
 Over the course of one week, our Shopify sales data revealed three key insights: First, the business generated over $4.1M in net sales, with an impressive average order value of $526.60, largely driven by the strong performance of running shoes, which alone accounted for $1.4M in sales. Second, nearly half (46%) of our 4,431 customers were repeat buyers, reflecting a solid customer retention rate and a promising lifetime value of $943.60. Lastly, Shopify Payments was the preferred payment method (58%), and Washington emerged as our top-performing state in both sales and customer volume, signaling strong regional brand traction. 
